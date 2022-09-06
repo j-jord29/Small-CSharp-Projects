@@ -1,0 +1,13 @@
+C:\Users\jjord\source\repos\data_structures\data_structures\bin\Debug\netcoreapp3.1\data_structures.exe
+C:\Users\jjord\source\repos\data_structures\data_structures\bin\Debug\netcoreapp3.1\data_structures.deps.json
+C:\Users\jjord\source\repos\data_structures\data_structures\bin\Debug\netcoreapp3.1\data_structures.runtimeconfig.json
+C:\Users\jjord\source\repos\data_structures\data_structures\bin\Debug\netcoreapp3.1\data_structures.runtimeconfig.dev.json
+C:\Users\jjord\source\repos\data_structures\data_structures\bin\Debug\netcoreapp3.1\data_structures.dll
+C:\Users\jjord\source\repos\data_structures\data_structures\bin\Debug\netcoreapp3.1\data_structures.pdb
+C:\Users\jjord\source\repos\data_structures\data_structures\obj\Debug\netcoreapp3.1\data_structures.csproj.AssemblyReference.cache
+C:\Users\jjord\source\repos\data_structures\data_structures\obj\Debug\netcoreapp3.1\data_structures.AssemblyInfoInputs.cache
+C:\Users\jjord\source\repos\data_structures\data_structures\obj\Debug\netcoreapp3.1\data_structures.AssemblyInfo.cs
+C:\Users\jjord\source\repos\data_structures\data_structures\obj\Debug\netcoreapp3.1\data_structures.csproj.CoreCompileInputs.cache
+C:\Users\jjord\source\repos\data_structures\data_structures\obj\Debug\netcoreapp3.1\data_structures.dll
+C:\Users\jjord\source\repos\data_structures\data_structures\obj\Debug\netcoreapp3.1\data_structures.pdb
+C:\Users\jjord\source\repos\data_structures\data_structures\obj\Debug\netcoreapp3.1\data_structures.genruntimeconfig.cache
